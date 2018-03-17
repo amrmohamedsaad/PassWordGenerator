@@ -1,0 +1,8 @@
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\1-ReviewExtension\1-Intro\1-Sample\obj\Debug\Sample.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\1-ReviewExtension\1-Intro\1-Sample\obj\Debug\Sample.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\1-ReviewExtension\1-Intro\1-Sample\bin\Debug\Sample.exe
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\1-ReviewExtension\1-Intro\1-Sample\bin\Debug\Sample.pdb
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\1-ReviewExtension\1-Intro\1-Sample\obj\Debug\ResolveAssemblyReference.cache
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\1-ReviewExtension\1-Intro\1-Sample\obj\Debug\Sample.Form1.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\1-ReviewExtension\1-Intro\1-Sample\obj\Debug\Sample.Properties.Resources.resources
+C:\Cmaterial\CourseMaterial\ics4m\cc\NewIcs4m\2-C#\NewCourseUnits\1-ReviewExtension\1-Intro\1-Sample\obj\Debug\Sample.csproj.GenerateResource.Cache

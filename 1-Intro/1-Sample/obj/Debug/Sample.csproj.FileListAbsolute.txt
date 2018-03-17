@@ -1,0 +1,8 @@
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\1-Intro\1-Sample\obj\Debug\Sample.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\1-Intro\1-Sample\obj\Debug\Sample.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\1-Intro\1-Sample\bin\Debug\Sample.exe
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\1-Intro\1-Sample\bin\Debug\Sample.pdb
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\1-Intro\1-Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\1-Intro\1-Sample\obj\Debug\Sample.Form1.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\1-Intro\1-Sample\obj\Debug\Sample.Properties.Resources.resources
+C:\Temp\UdemyC#PracticalApplicationsPart2\SectionLectures\1-ReviewExtension\1-Intro\1-Sample\obj\Debug\Sample.csproj.GenerateResource.Cache

@@ -1,0 +1,11 @@
+I:\FacebookSearcher\FacebookSearcher\bin\Debug\FacebookSearcher.exe.config
+I:\FacebookSearcher\FacebookSearcher\bin\Debug\FacebookSearcher.exe
+I:\FacebookSearcher\FacebookSearcher\bin\Debug\FacebookSearcher.pdb
+I:\FacebookSearcher\FacebookSearcher\bin\Debug\Facebook.dll
+I:\FacebookSearcher\FacebookSearcher\bin\Debug\Facebook.xml
+I:\FacebookSearcher\FacebookSearcher\obj\Debug\FacebookSearcher.csprojResolveAssemblyReference.cache
+I:\FacebookSearcher\FacebookSearcher\obj\Debug\FacebookSearcher.Form1.resources
+I:\FacebookSearcher\FacebookSearcher\obj\Debug\FacebookSearcher.Properties.Resources.resources
+I:\FacebookSearcher\FacebookSearcher\obj\Debug\FacebookSearcher.csproj.GenerateResource.Cache
+I:\FacebookSearcher\FacebookSearcher\obj\Debug\FacebookSearcher.exe
+I:\FacebookSearcher\FacebookSearcher\obj\Debug\FacebookSearcher.pdb

@@ -1,0 +1,10 @@
+F:\Amr\Projects\Desktop Applications\Easy PassGenerator\Easy PassGenerator\bin\Debug\Easy PassGenerator.exe.config
+F:\Amr\Projects\Desktop Applications\Easy PassGenerator\Easy PassGenerator\bin\Debug\Easy PassGenerator.exe
+F:\Amr\Projects\Desktop Applications\Easy PassGenerator\Easy PassGenerator\bin\Debug\Easy PassGenerator.pdb
+F:\Amr\Projects\Desktop Applications\Easy PassGenerator\Easy PassGenerator\obj\Debug\Easy PassGenerator.csprojResolveAssemblyReference.cache
+F:\Amr\Projects\Desktop Applications\Easy PassGenerator\Easy PassGenerator\obj\Debug\Easy_PassGenerator.Form1.resources
+F:\Amr\Projects\Desktop Applications\Easy PassGenerator\Easy PassGenerator\obj\Debug\Easy_PassGenerator.Properties.Resources.resources
+F:\Amr\Projects\Desktop Applications\Easy PassGenerator\Easy PassGenerator\obj\Debug\Easy PassGenerator.csproj.GenerateResource.Cache
+F:\Amr\Projects\Desktop Applications\Easy PassGenerator\Easy PassGenerator\obj\Debug\Easy PassGenerator.csproj.CoreCompileInputs.cache
+F:\Amr\Projects\Desktop Applications\Easy PassGenerator\Easy PassGenerator\obj\Debug\Easy PassGenerator.exe
+F:\Amr\Projects\Desktop Applications\Easy PassGenerator\Easy PassGenerator\obj\Debug\Easy PassGenerator.pdb
